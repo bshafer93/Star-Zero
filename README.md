@@ -20,7 +20,12 @@ A vertical slice demo for an Isometric rhythm game twin-stick shooter. Developed
 
 ## Members
 `Brent Shafer` - Team and Programming Lead
+
 `Mason Hendrick` - and Sound Designer  
+
 `Hassan Hage Hassan` - Programmer  
+
 `Kyle Traverse` - Programmer  
+
 `Bitao Jin` - Programmer  
+
