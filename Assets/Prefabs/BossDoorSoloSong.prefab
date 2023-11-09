@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4780550384606604184
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2599596200312908162}
+  - component: {fileID: 4597144492707134463}
+  m_Layer: 0
+  m_Name: BossDoorSoloSong
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2599596200312908162
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4780550384606604184}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 21.003448, y: 392.6266, z: -86.84963}
+  m_LocalScale: {x: 1.0568032, y: 1.0568032, z: 1.0568032}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4597144492707134463
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4780550384606604184}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e6b229f36972d744a71e393bdf3ed5a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  song_clip: {fileID: 8300000, guid: a3280d9856ecf8f4a8552c731186211d, type: 3}
+  note_list_file: {fileID: 4900000, guid: 5f40e66932fabc14590edd65bc9e60f1, type: 3}
+  bpm: 80
+  songPosition: 0
+  dsptimesong: 0
+  notes: []
+  nextIndex: 0
+  started: 0

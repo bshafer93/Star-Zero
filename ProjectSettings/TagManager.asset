@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Projectile
+  - Activator
+  - Puzzle04
+  - BeatTrigger
+  - EnemyContainer
+  - BossDoor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Enemy
+  - Water
+  - UI
+  - Player
+  - PlayerProjectile
+  - EnemyProjectile
+  - Ceiling
+  - CutSceneTrigger
+  - Glow
+  - Floor
+  - Wall
+  - TG_Moveable
+  - RM_CHECK
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Line
+    uniqueID: 137913845
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Prompts
+    uniqueID: 472532827
+    locked: 0

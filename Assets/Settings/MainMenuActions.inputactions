@@ -1,0 +1,63 @@
+{
+    "name": "MainMenuActions",
+    "maps": [
+        {
+            "name": "MainMenu",
+            "id": "93e0e733-671e-4f08-b259-6ece55d44d87",
+            "actions": [
+                {
+                    "name": "PlayGame",
+                    "type": "Button",
+                    "id": "76394b25-4561-4232-a461-39bfdd77ad13",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "ExitGame",
+                    "type": "Button",
+                    "id": "a168a4cd-a1dd-4546-bcb3-ccc10350b491",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "cc54eff2-83ed-4e78-a3ae-8a4765060973",
+                    "path": "<Gamepad>/start",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PlayGame",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "e0428196-7ea8-4f40-8e74-843c66fd8fbd",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PlayGame",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "2eff125e-0412-470d-9c50-801ff0456e13",
+                    "path": "<Gamepad>/select",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ExitGame",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
