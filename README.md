@@ -1,7 +1,7 @@
-# StarZero - Senior Project
+# Star Zero
 
 ## Description
-A vertical slice demo for an Isometric rhythm game twin-stick shooter. Developed at Loyola Marymount University for senior projects.  
+A vertical slice demo for an Isometric rhythm game twin-stick shooter. Developed at Loyola Marymount University for senior projects.
 
 ## Features 
 * Isometric twin-stick combat with dodge <br>
@@ -14,8 +14,6 @@ A vertical slice demo for an Isometric rhythm game twin-stick shooter. Developed
 
 * Physics Puzzles <br>
 ![Physics](https://github.com/bshafer93/Star-Zero/assets/6563924/1c3b94c0-053c-4841-9f43-9d978528b3e2)
-
-
 
 
 ## Members
