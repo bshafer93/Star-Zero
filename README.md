@@ -15,11 +15,14 @@ A vertical slice demo for an Isometric rhythm game twin-stick shooter. Developed
 * Physics Puzzles <br>
 ![Physics](https://github.com/bshafer93/Star-Zero/assets/6563924/1c3b94c0-053c-4841-9f43-9d978528b3e2)
 
+## Details
+Engine: Unity
+Language: C#
 
 ## Members
 `Brent Shafer` - Team and Programming Lead
 
-`Mason Hendrick` - and Sound Designer  
+`Mason Hendrick` -  Sound Designer  
 
 `Hassan Hage Hassan` - Programmer  
 
